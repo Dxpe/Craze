@@ -1,0 +1,2 @@
+# Craze
+My discord projects
